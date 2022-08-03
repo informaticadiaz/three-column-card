@@ -85,7 +85,13 @@ h3 {
   .card-three {
     border-radius: 0 10px 10px 0;
   }
-  .button:hover {
+  .btn1:hover {
+    cursor: pointer;
+  }
+  .btn2:hover {
+    cursor: pointer;
+  }
+  .btn3:hover {
     cursor: pointer;
   }
 }
